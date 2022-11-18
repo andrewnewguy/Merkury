@@ -1,0 +1,44 @@
+$text: #555;
+$blue: rgb(6, 116, 236);
+$red: #e74c3c;
+$green: #77de51;
+$bg: #263238;
+$grey: #f4f6f5;
+$tomato: #ef6c00;
+$yellow: #fcb322;
+$salad: #95c85a;
+$facebook: #6370b6;
+$twitter: #64b5f6;
+$linkedin: #4f71ce;
+$pinterest: #d32f2f;
+$border: #dcdcdc;
+$purple: #7347c1;
+$orange: #feb71d;
+$lightblue: #58c9e9;
+$pink: #ff6a6d;
+$google: #f05b44;
+$dribble: #ea4c89;
+
+@mixin f100 {
+
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+
+@mixin f400 {
+    
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+@mixin f500 {
+    
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+@mixin f700 {
+    
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
